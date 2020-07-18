@@ -2,6 +2,8 @@
 
 #####################
 #   Speaking Cat
+# Taking input from user and showing it back in cat speakig bubble.
+# Dynamic lengt of the Speacking bubble
 #####################
 
 userInput = input('Hi! Please enter something: ')
