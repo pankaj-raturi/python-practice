@@ -14,5 +14,3 @@ animalsList.sort()
 with open('animals-sorted.txt', 'w') as animalsFile:
     for animal in animalsList:
         animalsFile.write('{}\n'. format(animal))
-
-# print(animalsList)
